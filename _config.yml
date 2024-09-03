@@ -1,0 +1,33 @@
+# _config.yml
+
+# Site settings
+title: "Wedding Notes"
+description: "Some logistic tips and tricks to know for the wedding"
+baseurl: "" # Leave this empty unless you are hosting in a subdirectory
+url: "https://leanvel.github.io/wedding_notes/" # Replace with your actual GitHub Pages URL
+
+# Markdown processing settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Build settings
+plugins:
+  - jekyll-feed # Generates an Atom feed for your site (optional)
+
+# Include these files in the output
+include:
+  - _pages
+
+# Exclude these files from the output
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
