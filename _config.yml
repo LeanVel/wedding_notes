@@ -10,12 +10,16 @@ url: "https://leanvel.github.io/wedding_notes/" # Replace with your actual GitHu
 markdown: kramdown
 highlighter: rouge
 
-# Theme settings
-theme: jekyll-theme-cayman
-
-# Build settings
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed # Generates an Atom feed for your site (optional)
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# # Theme settings
+# theme: jekyll-theme-cayman
+
+# # Build settings
+# plugins:
+#   - jekyll-feed # Generates an Atom feed for your site (optional)
 
 # Include these files in the output
 include:
