@@ -82,7 +82,7 @@ Traveling in Argentina offers a vibrant cultural experience with its diverse lan
 ### Cultural Norms
 - **Greetings:** A single kiss on the cheek is a common greeting among Argentinians, regardless of gender.
 - **Dining Etiquette:** Meals, particularly dinner, often start late (around 9 PM or later) and can extend into the wee hours.
-- **Tipping:** A 10% gratuity is customary in restaurants and cafes, especially when a service charge isn't included. More tips on Argentinian etiquette can be found on [Culture Trip](https://theculturetrip.com/south-america/argentina/articles/11-cultural-habits-to-understand-before-travelling-to-argentina/).
+- **Tipping:** A 10% gratuity is customary in restaurants and cafes, especially when a service charge isn't included.
 
 ### Safety Tips
 - **Stay Informed:** Regularly check local news via reliable sources like [BA Times](http://www.batimes.com.ar) for current events and safety advisories.
