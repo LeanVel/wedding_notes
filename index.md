@@ -104,7 +104,7 @@ For a more personalized experience, consider these apartment options. Note that 
    - [Book Here](https://www.booking.com/hotel/ar/del-puente-nuevo.en-gb.html)
 
 8. **Flat 3 Genesis**  
-   - [Book Here](https://www.booking.com/hotel/ar/del-puente-nuevo.en-gb.html)
+   - [Book Here](https://www.booking.com/hotel/ar/flat-3-genesis.en-gb.html)
 
 9. **DTO GENESIS**  
    - [Book Here](https://www.booking.com/hotel/ar/dpto-genesis.en-gb.html)
