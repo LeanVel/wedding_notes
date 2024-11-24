@@ -69,7 +69,51 @@ You can book these flights directly through the [Aerolíneas Argentinas website]
 - **Currency Exchange:** Exchange some money into Argentine pesos at the airport for immediate expenses such as transportation or food.
 
 ## 3. Accommodation Options
-**Comming soon**. The idea will be to share some trusted sources and tips so you can either gather with some other guest and arrange with them something bigger or book something for yourselfes.
+
+For your stay in Viedma during the wedding, we’ve compiled a list of recommended accommodations, including hotels and apartments, to suit a variety of preferences. Booking.com generally works well in the area, so you can use it to book your accomodation. Feel free to explore additional accommodations that meet your specific needs.
+
+### Hotels
+
+1. **Hotel Nijar**  
+   - **Description:** A modest yet modern three-star hotel with excellent reviews and a convenient location. Ideal for non-Argentinean residents due to its easy booking process.  
+   - **Booking Link:** [Hotel Nijar](https://www.booking.com/hotel/ar/nijar.en-gb.html)
+
+### Apartments
+
+For a more personalized experience, consider these apartment options. Note that some properties may not have availability open yet for the wedding days, so check regularly for updates.
+
+1. **SAN TAURO VIEDMA**  
+   - [Book Here](https://www.booking.com/hotel/ar/san-tauro-viedma.en-gb.html)
+
+2. **Rio Negro Loft**  
+   - [Book Here](https://www.booking.com/hotel/ar/rio-negro-loft.en-gb.html)
+
+3. **Gallardo**  
+   - [Book Here](https://www.booking.com/hotel/ar/gallarfo.en-gb.html)
+
+4. **Camino al Río**  
+   - [Book Here](https://www.booking.com/hotel/ar/camino-al-rio.en-gb.html)
+
+5. **LAS MARAS SUITES**  
+   - [Book Here](https://www.booking.com/hotel/ar/las-maras-suites-viedma.en-gb.html)
+
+6. **Alta Patagonia Apart**  
+   - [Book Here](https://www.booking.com/hotel/ar/alta-patagonia-apart.en-gb.html)
+
+7. **Del Puente Nuevo**  
+   - [Book Here](https://www.booking.com/hotel/ar/del-puente-nuevo.en-gb.html)
+
+8. **Flat 3 Genesis**  
+   - [Book Here](https://www.booking.com/hotel/ar/del-puente-nuevo.en-gb.html)
+
+9. **DTO GENESIS**  
+   - [Book Here](https://www.booking.com/hotel/ar/dpto-genesis.en-gb.html)
+
+10. **San Ramon**  
+    - [Book Here](https://www.booking.com/hotel/ar/san-ramon-viedma.en-gb.html)
+
+11. **Bian Alquiler Temporario**  
+    - [Book Here](https://www.booking.com/hotel/ar/bian-alquiler-temporario.en-gb.html)
 
 ## 4. Tips and Tricks for Traveling Around Argentina
 
